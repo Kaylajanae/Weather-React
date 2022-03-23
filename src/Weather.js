@@ -66,7 +66,11 @@ export default function Weather() {
       <div className="weather-forecast" id="forecast"></div>
       <div className="source">
         <small>
-          <a href="#" target="_blank">
+          <a
+            href="https://github.com/Kaylajanae/Weather-React.git"
+            target="_blank"
+            rel="noreferrer"
+          >
             Open-source code{" "}
           </a>
           by Kaylajanaé Sáenz
